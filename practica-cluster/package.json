@@ -1,0 +1,26 @@
+{
+  "name": "practica_cluster",
+  "version": "1.0.0",
+  "description": "Practica redundante",
+  "main": "proceso-master.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeldelabra/PracticaCluster_ProgramacionDistribuida.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeldelabra/PracticaCluster_ProgramacionDistribuida/issues"
+  },
+  "homepage": "https://github.com/joeldelabra/PracticaCluster_ProgramacionDistribuida#readme",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "fastify": "^3.14.0"
+  }
+}
